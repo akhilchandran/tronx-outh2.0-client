@@ -1,0 +1,17 @@
+{
+    "name": "oauth2-cli",
+    "version": "0.0.0",
+    "private": true,
+    "author": {
+        "name": "Akhil Chandran T R",
+        "email": "akhilchandran.t.r@gmail.com"
+    },
+    "scripts": {
+        "start": "node ./bin/www"
+    },
+    "dependencies": {
+        "express": "~4.14.0",
+        "request": "^2.85.0",
+        "uuid": "^3.2.1"
+    }
+}
